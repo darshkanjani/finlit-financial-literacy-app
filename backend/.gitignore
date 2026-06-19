@@ -1,0 +1,13 @@
+# OWNER: Darsh
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+.env
+*.db
+
+.vscode/
+.idea/
+.DS_Store
